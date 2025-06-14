@@ -105,7 +105,7 @@ const Surprise = () => {
           initial={{ scale: 0 }}
           animate={{ scale: 1 }}
           transition={{ duration: 0.8, ease: 'easeOut' }}
-          className="absolute flex justify-center items-center w-full"
+          
           style={{ top: '50%' }}
         >
           <img
