@@ -11,7 +11,7 @@ const Message = () => {
         className="max-w-2xl bg-white/80 backdrop-blur-sm p-8 rounded-xl shadow-xl text-center"
       >
         <h1 className="text-3xl font-bold text-gray-800 mb-6">
-          Dear Madam Ji,
+          Dear Future Doctor,
         </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
           Even though we have met recently & i guess we know nothing about eachother but this
@@ -20,7 +20,7 @@ const Message = () => {
           I'm starting this new year with a new friend as you and i hope our friendship will last forever.
         </p>
         <p className="text-lg text-pink-600 font-semibold">
-          and on your special day, i wish you the happiest birthday
+          and on your special day, I wish you the HAPPIEST BIRTHDAY!!!
         </p>
       </motion.div>
     </div>
