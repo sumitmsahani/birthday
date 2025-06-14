@@ -110,7 +110,7 @@ const Surprise = () => {
         >
           <img
             src={CatCake}
-            className="w-full max-w-xs md:max-w-md h-auto mt-10 pt-10"
+            className="w-full max-w-xs md:max-w-md h-auto"
             alt="Cat Cake"
           />
         </motion.div>
