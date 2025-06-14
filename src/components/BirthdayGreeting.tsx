@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import { Heart, Sparkles } from 'lucide-react';
 
 const messages = [
-  "Hello Moti Ingita😝!!!"
+  "Hello Moti Ingita😝!!!",
   "I mean Doctor Ji!!🤭",
   "It's Your Special Day🥳🥳...",
   "So I made something Special for you!!!",
