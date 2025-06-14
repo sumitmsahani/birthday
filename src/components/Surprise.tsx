@@ -101,20 +101,21 @@ const Surprise = () => {
 
       {/* Cake */}
       {stage >= 5 && (
-        <motion.div
-          initial={{ scale: 0 }}
-          animate={{ scale: 1 }}
-          transition={{ duration: 0.8, ease: 'easeOut' }}
-          className="absolute flex justify-center items-center w-full"
-          style={{ top: '50%' }}
-        >
-          <img
-            src={CatCake}
-            className="w-full max-w-xs md:max-w-md h-auto"
-            alt="Cat Cake"
-          />
-        </motion.div>
-      )}
+  <motion.div
+    initial={{ scale: 0 }}
+    animate={{ scale: 1 }}
+    transition={{ duration: 0.8, ease: 'easeOut' }}
+    className="absolute flex justify-center items-center w-full"
+    style={{ top: '50%' }}
+  >
+    <img
+      src={CatCake}
+      className="w-full max-w-[150px] md:max-w-[200px] h-auto"
+      alt="Cat Cake"
+    />
+  </motion.div>
+)}
+
 
       {/* Audio Element */}
       <audio ref={audioRef} loop>
