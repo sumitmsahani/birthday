@@ -63,7 +63,7 @@ const Surprise = () => {
         >
           <img
             src={Banner}
-            className="w-full max-w-xs md:max-w-md h-auto mt-10 pt-10"
+            className="w-full max-w-xs md:max-w-md h-auto"
             alt="Happy Birthday"
           />
         </motion.h1>
