@@ -14,13 +14,15 @@ const Message = () => {
           Dear Future Doctor,
         </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
-          Even though we have met recently & i guess we know nothing about eachother but this
-          is my kindness to show you how much i value people.This is a way 
-          to show that our friendship just started and i hope we will be making some great memories together.
-          I'm starting this new year with a new friend as you and i hope our friendship will last forever.
+          Abhi bhi time hai, sudhar jao warna late replies will be the reason of your death someday. <br></br>
+          Anyways, today is your birthday so enjoy this day. Congratulations on being one year older...aunty😂😂<br></br>
+          Okay jokes aside. I'm really happy for your birthday and wish you all the good luck🥰🥰<br></br>
+          May all your dreams come true and have a great year ahead filled with bhot saara fun and masti<br></br>
+          I'll be waiting to meet you, treat bhi toh leni hai afterall😁
+          Chalo I won't take too much of your time. Baaki dosto ke busy jo rehna hai tumhe🙄🙄
         </p>
         <p className="text-lg text-pink-600 font-semibold">
-          and on your special day, I wish you the HAPPIEST BIRTHDAY!!!
+          So on your special day, I wish you the HAPPIEST BIRTHDAY🥰🥳!!!
         </p>
       </motion.div>
     </div>
