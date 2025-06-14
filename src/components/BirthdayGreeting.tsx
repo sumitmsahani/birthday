@@ -4,10 +4,11 @@ import { useNavigate } from 'react-router-dom';
 import { Heart, Sparkles } from 'lucide-react';
 
 const messages = [
-  "Hello Madam Jiiii",
-  "It's Your Special Day Yeyey!",
-  "So, i had to make something special for you cause you are special to me!",
-  "Do you wanna see what I made??"
+  "Hello Moti Ingita😝!!!"
+  "I mean Doctor Ji!!🤭",
+  "It's Your Special Day🥳🥳...",
+  "So I made something Special for you!!!",
+  "Dekhogi???"
 ];
 
 const BirthdayGreeting = () => {
