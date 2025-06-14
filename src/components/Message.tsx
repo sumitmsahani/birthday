@@ -18,7 +18,7 @@ const Message = () => {
           Anyways, today is your birthday so enjoy this day. Congratulations on being one year older...aunty😂😂<br></br>
           Okay jokes aside. I'm really happy for your birthday and wish you all the good luck🥰🥰<br></br>
           May all your dreams come true and have a great year ahead filled with bhot saara fun and masti<br></br>
-          I'll be waiting to meet you, treat bhi toh leni hai afterall😁
+          I'll be waiting to meet you, treat bhi toh leni hai afterall😁<br></br>
           Chalo I won't take too much of your time. Baaki dosto ke busy jo rehna hai tumhe🙄🙄
         </p>
         <p className="text-lg text-pink-600 font-semibold">
